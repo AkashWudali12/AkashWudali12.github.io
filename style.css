@@ -1,0 +1,8 @@
+/* Optional custom styles */
+body {
+    background-color: #f8f9fa; /* Light gray background for slight contrast */
+}
+
+nav.nav {
+    border-bottom: 1px solid #fff; /* White border under the nav for visual separation */
+}
